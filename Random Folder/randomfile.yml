@@ -7,3 +7,4 @@
 # EDIT from GitHub Editor - added comment
 
 While local master branch changes line 7 to comment, this line is added in GitHub Editor.
+#This line is added after merging local master-new (pull) -> truthful file <- remote master
