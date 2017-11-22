@@ -11,4 +11,7 @@ While local master branch changes line 7 to comment, this line is added in GitHu
 
 Local master-new selecting to merge with remote master.
 
+both edits.
 both editsL
+When there are multiple edits, on a pull request you can select which edits to keep or discard.
+This was added during a pull request.
