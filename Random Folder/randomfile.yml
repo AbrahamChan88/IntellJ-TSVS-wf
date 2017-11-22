@@ -5,3 +5,5 @@
 # Commit to new branch called "validate".
 
 EDIT from GitHub Editor
+
+While local master branch changes line 7 to comment, this line is added in GitHub Editor.
