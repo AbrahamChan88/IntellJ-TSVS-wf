@@ -10,3 +10,5 @@ While local master branch changes line 7 to comment, this line is added in GitHu
 #This line is added after merging local master-new (pull) -> truthful file <- remote master
 
 Local master-new selecting to merge with remote master.
+
+both editsL
